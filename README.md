@@ -1,7 +1,7 @@
 ### Olá! Eu sou o PedroSilva 🖐️
 
 ![PedroSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSiilva&show_icons=true&theme=highcontrast)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSiilva&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSiilva&layout=compact&langs_count=16&theme=highcontrast"/>
 
 ## Tecnologias que uso no meu dia
 
