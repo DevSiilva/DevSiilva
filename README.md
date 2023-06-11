@@ -13,4 +13,4 @@
 <div>
   
 
-   ![Snake animation](https://github.com/DevSiilva/DevSiilva/blob/output/github-contribution-grid-snake.svg)
+  
